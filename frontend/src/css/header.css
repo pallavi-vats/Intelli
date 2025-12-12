@@ -1,0 +1,22 @@
+.header-container {
+    width: 100%;
+    background-color: #222;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav-left button {
+    margin-right: 10px;
+  }
+  
+  .nav-right input {
+    margin-right: 10px;
+  }
+  
+  .nav-right button {
+    cursor: pointer;
+  }
+  
